@@ -6,4 +6,22 @@
 
 /* General styles */
 
+.aboutus-text {
+    color: brown;
+}
 
+/* Footer */
+footer {
+    background-color: brown;
+    color: white;
+}
+
+/* Nav */
+.nav-title {
+    word-wrap: break-word;
+}
+
+/* Logo */
+.logo {
+    position: relative;
+}
