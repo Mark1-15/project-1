@@ -1,8 +1,6 @@
 /*Img Logo*/
 
-.logo {
-    align-items: center;
-}
+
 
 /* General styles */
 
@@ -17,11 +15,6 @@ footer {
 }
 
 /* Nav */
-.nav-title {
-    word-wrap: break-word;
-}
 
-/* Logo */
-.logo {
-    position: relative;
-}
+
+
