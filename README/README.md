@@ -104,3 +104,8 @@ Wireframes were used in the preperation of this project to help create the layou
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 ![alt text](image-12.png)
+
+## 4. Testing
+I had difficulty moving the header logo to the center of the screen on larger devices, thankfully I found a solution on W3Schools, here is the link to the thread:
+
+{Stack overflow link}(https://www.w3schools.com/howto/howto_css_image_center.asp)
