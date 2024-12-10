@@ -1,6 +1,7 @@
 /*Img Logo*/
-
-
+.header-logo {
+    background-color: brown;
+}
 
 /* General styles */
 
@@ -16,5 +17,14 @@ footer {
 
 /* Nav */
 
-
-
+/* Media query */
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+    /*  */
+    .logo-center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+}
