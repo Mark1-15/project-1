@@ -1,4 +1,5 @@
 /*Img Logo*/
+
 .header-logo {
     background-color: #873e23;
 }
@@ -18,9 +19,10 @@ footer {
 /* Nav */
 
 /* Media query */
+/* I had learned this media query from my previously coded boardwalk games project with code institute */
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
-    /*  */
+    /* W3Schools.com assisted with the css for centering the image */
     .logo-center {
         display: block;
         margin-left: auto;

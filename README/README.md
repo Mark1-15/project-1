@@ -109,3 +109,7 @@ Wireframes were used in the preperation of this project to help create the layou
 I had difficulty moving the header logo to the center of the screen on larger devices, thankfully I found a solution on W3Schools, here is the link to the thread:
 
 {Stack overflow link}(https://www.w3schools.com/howto/howto_css_image_center.asp)
+
+I also used previous examples of adding a media query into the css file of the project. Here ia a link to the previous project I worked on coding alongside members from code institute:
+
+{My Boardwalk Games Project}(https://github.com/Mark1-15/boardwalk-games/blob/main/assets/css/style.css)
