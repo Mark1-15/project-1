@@ -100,7 +100,7 @@ Wireframes were used in the preperation of this project to help create the layou
 ![alt text](image-7.png)
 
 
-![alt text](image-8.png)
+![alt text](readme-documents/image-8.png)
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 ![alt text](image-12.png)

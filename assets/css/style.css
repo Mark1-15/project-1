@@ -11,8 +11,8 @@ section {
         font-family: var(--primary-font);
 }
 
-/*Img Logo*/
-.header-logo {
+/*Header*/
+header {
     background-color: #873e23;
 }
 
@@ -37,14 +37,30 @@ footer {
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
     /* W3Schools.com assisted with the css for centering the image */
-    .logo-center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
+    
 
     .card-3-shift {
         margin-right: 90px;
+    }
+
+    .logo-img {
+        max-height: 230px;
+        min-width: 300px;
+    }
+}
+
+/* Media query 1024px - large screen*/
+@media screen and (min-width: 1024px) {
+    .logo-img {
+        min-height: 300px;
+        min-width: 350px;
+    }
+}
+
+/* Media query 1440px - extra large screen*/
+@media screen and (min-width: 1440px) {
+    .logo-img {
+        min-height: 424px;
+        min-width: 450px;
     }
 }
