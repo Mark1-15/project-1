@@ -9,6 +9,7 @@
 /* Font styles */
 section {
         font-family: var(--primary-font);
+        color: #873e23;
 }
 
 /* Activities page */
@@ -38,10 +39,11 @@ header {
     color: #873e23;
 }
 
+
 /* Footer */
 footer {
     background-color: #873e23;
-    color: white;
+    color: white !important;
 }
 
 /* Button */

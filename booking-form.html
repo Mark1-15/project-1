@@ -59,36 +59,54 @@
     </header>   
 
  <!-- Booking Form -->
-  <section class="text-center">
-    <header>
-        <h1>Booking Form</h1>
-        <p>Please fill in the form below to book your activity with us</p>
-    </header>
+ <section class="container">
+  <div class="row justify-content-center">
+  <div class="text-center">
+    <h1>Booking Form</h1>
+    <p>Please fill out the required fields in the form below to book your activity</p>
 
-    <form>
-        <div class="mb-3 col-12 col-md-6 col-lg-4">
-        <div>
-            <label for="exampleInputName1" class="form-label">Full Name</label>
-            <input type="name" class="form-control" id="exampleInputName1" aria-describedby="nameHelp">
-            <div id="nameHelp" class="form-text">Add Name here</div>
-          </div>
-        <div>
-          <label for="exampleInputEmail1" class="form-label">Email address</label>
-          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-          <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-        </div>
-        <div class="mb-3">
-            <label for="exampleInputNumber1" class="form-label">Phone Number</label>
-            <input type="number" class="form-control" id="exampleInputNumber1">
-        </div>
-        <div class="mb-3">
-            <label for="exampleInputActivity1" class="form-label">Activity</label>
-            <input type="" class="form-control" id="exampleInputActivity1">
-          </div>
-        <a href="submitted.html" class="btn btn-primary btn-lg btn-secondary d-grid gap-2 col-6 mx-auto m-4" type="Submit">Submit</a> 
-        </div>
-      </form>
-    </section>
+    <form action="submitted.html" method="get">
+      <div class="mb-3">
+        <label for="name" class="form-label">Full Name</label>
+        <input type="text" class="form-control" id="name" name="name" placeholder="Your full name" aria-describedby="nameinput" required>
+      </div>
+      <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Email address</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="name@example.com" aria-describedby="emailinput" required>
+      </div>
+      <div class="mb-3">
+        <label for="exampleInputNumber1" class="form-label">Phone number</label>
+        <input type="number" class="form-control" id="exampleInputNumber1" placeholder="0123456789" aria-describedby="numberinput" required>
+      </div>
+      <label for="event-type" class="form-label">Number of Participants</label>
+        <select id="participants-number" class="form-select" name="participants-number" required>
+          <option value="" selected>Select</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8 (Max)</option>
+        </select>
+        <label for="event-type" class="form-label mt-4">Activity Selection</label>
+        <select id="participants-number" class="form-select" name="participants-number" required>
+          <option value="" selected>Select</option>
+          <option value="1">Coffee Morning</option>
+          <option value="2">Gospel Meeting</option>
+          <option value="3">Toddler Group</option>
+          <option value="4">Youth Group</option>
+        </select>
+      
+      
+      <div class="text-center my-4">
+        <button type="submit" class="btn btn-lg btn-secondary d-grid gap-2 col-6 mx-auto m-4">Submit</button>
+      </div>
+    </form>
+  </div>
+  </div>
+ </section>
 
   <!-- Footer -->
   <footer class="mt-6 text-center footer">
