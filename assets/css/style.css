@@ -33,11 +33,16 @@ header {
     background-color: #873e23;
 }
 
-/* General styles */
+/* About Us */
 
 .aboutus-text {
     color: #873e23;
 }
+
+#about-us {
+    color: #873e23;
+}
+
 
 
 /* Footer */
