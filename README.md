@@ -88,22 +88,22 @@ However, here is a summary of them below (in no particular order):
 
 Wireframes were used in the preperation of this project to help create the layout of the website that acted as a guide once I had commenced coding. These wireframes were created in the inception phase of this project, as I was planning out ideas. They are seen here:
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](readme-documents/image.png)
+![alt text](readme-documents/image-1.png)
+![alt text](readme-documents/image-2.png)
+![alt text](readme-documents/image-3.png)
 
 
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
+![alt text](readme-documents/image-4.png)
+![alt text](readme-documents/image-5.png)
+![alt text](readme-documents/image-6.png)
+![alt text](readme-documents/image-7.png)
 
 
 ![alt text](readme-documents/image-8.png)
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-12.png)
+![alt text](readme-documents/image-9.png)
+![alt text](readme-documents/image-10.png)
+![alt text](readme-documents/image-12.png)
 
 ## 4. Testing
 I had difficulty moving the header logo to the center of the screen on larger devices, thankfully I found a solution on W3Schools, here is the link to the thread:
