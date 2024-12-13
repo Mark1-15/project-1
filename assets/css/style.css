@@ -11,6 +11,22 @@ section {
         font-family: var(--primary-font);
 }
 
+/* Activities page */
+/* Logo center class on activities page */
+/* Retrieved from w3schools - how to center an image on CSS */
+.logo-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-height: 300px;
+    max-width: 300px;
+}
+
+.activity-cards-img {
+    max-height: 174.34px;
+}
+
 /*Header*/
 header {
     background-color: #873e23;
