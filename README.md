@@ -105,6 +105,12 @@ Wireframes were used in the preperation of this project to help create the layou
 ![alt text](readme-documents/image-10.png)
 ![alt text](readme-documents/image-12.png)
 
+
+## 2. Features
+
+##### Existing Features
+At the conclusion of this project, this front end website is fully functioning and has all of the necessary features that a fully functioning website would need, and the features that were set out in the user stories section. 
+
 ## 4. Testing
 I had difficulty moving the header logo to the center of the screen on larger devices, thankfully I found a solution on W3Schools, here is the link to the thread:
 
