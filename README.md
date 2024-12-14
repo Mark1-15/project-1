@@ -135,6 +135,17 @@ Firstly, a safety verification badge for the refreshments provided would have en
 Secondly, a donate button was planned to be implemented onto the website to possibly help with the organisation's funding. However, this again is not a significant issue, as the business goal was to increase foot traffic into the building to share the Christian faith and create a community center, which would allow anyone who wished to to provide monetary support in person once they have seen the importance and signifance of this work for the community themselves. 
 
 
+## 3. Technologies Used
+
+For the creating of this website many technologies were used and utilised to bring about the end result.
+
+First of all was git hub, the site you are probably using to view this project and README.md, the code and supporting documents (images etc.) were written and added to git hub, then commited with a commit message, and then finally pushed. The project section was also utilied to arrange the user stories to monitor progress and provide insight and information on what to do next. 
+
+The social links in the footer section were taken from a previous project in which I had written up code with Code Institute. Because this code was fully functioning the exact code I was going to write up myself, I thought it good developer practice to save time and copy into my project allowing me to work on other features in the project.
+
+As well as the social links, both of the selector inputs in the booking form were also used from the previous boardwalk games project which I had worked on. I originally intended to keep the selector option on how it came from bootstrap, however, this selector option seemed more responsive, easier to navigate, and looked more professional, hence the reason I used this instead of the original option from bootstrap.
+
+
 
 ## 4. Testing
 I had difficulty moving the header logo to the center of the screen on larger devices, thankfully I found a solution on W3Schools, here is the link to the thread:
