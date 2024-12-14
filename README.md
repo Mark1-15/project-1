@@ -165,3 +165,10 @@ I had difficulty moving the header logo to the center of the screen on larger de
 I also used previous examples of adding a media query into the css file of the project. Here ia a link to the previous project I worked on coding alongside members from code institute:
 
 {My Boardwalk Games Project}(https://github.com/Mark1-15/boardwalk-games/blob/main/assets/css/style.css)
+
+## 5.Deployment
+
+This project was deployed early in development as per good sofware development practice to help spot bugs as they appeared on a real website and not just a developer environment. Since deployment, there were no bugs that appeared on the live deployment that weren't in the developer environment. Overall the deployment of this website was a smooth experience, with no issues flagging up as a result.
+
+
+## 6. Credits
