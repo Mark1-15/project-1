@@ -111,6 +111,31 @@ Wireframes were used in the preperation of this project to help create the layou
 ##### Existing Features
 At the conclusion of this project, this front end website is fully functioning and has all of the necessary features that a fully functioning website would need, and the features that were set out in the user stories section. 
 
+This website is easy to navigate, as it is constructed in a way that users would expect. There is a navbar at the top of the page that directs users to the appropriate page/location. The main content in the page is arranged in a way that makes sense and allows easy maneuvering. 
+
+This website is fully reposnsive, and designed to look good regardless of what screen size is being used. A 'mobile-first' approach was used when designing this website as this is the most popular device size that is currently used when surfing the internet and browsing websites, and screen size was upscaled from there and designed in a way that would make it look good on larger screens with the use of media queries and other function.
+
+There is a logo that displays the organisations name, sat in a warm, cozy and comfortable brown emphasising the friendly and welcoming nature of the organisation, and it is located at the top of the page regardless of screen size for all users to see.
+
+There is a footer on every page that can also be navigated to easily with the navbar that contains the organisation's contact information. It contains a phone number and email address, allowing anyone to easily contact the organisation, it has an address that welcomes anyone to the physical building, and it also contains social media links linking users to the organisation's social media pages to discover more about the organisation, its activities while providing an authentic look on what the activities actually look like. Activity times are also noted on the activity card descriptions.
+
+There is a booking page that allows users fo fill out fields, providing personal information about themselves while also allowing the to choose and activity to attend, with the amount of people they intend to bring and choose a specific date for it.
+
+This webside has a carousel, displaying high quality images displaying the kind of atmosphere, environment, and activities this organisation produces.
+
+A modal is also used for costing information and safety verfication. 
+
+
+##### Features left to implement
+
+Due to time contraints, there are certain 'should-have' priority level features that were unable to be implemented into the project. Though unfortuante, this is not a significant issue as the priority and usefulness of these features was low and the website is still fully functioning and finished without them.
+
+Firstly, a safety verification badge for the refreshments provided would have enhanced the professionalism and authenticity of this website, while also providing a reassurance to anyone with concerns. However, the impact of this is minimal, if any. Despite this a note is left on the modal explaining that this organisation adheres to all food and safety regulation.
+
+Secondly, a donate button was planned to be implemented onto the website to possibly help with the organisation's funding. However, this again is not a significant issue, as the business goal was to increase foot traffic into the building to share the Christian faith and create a community center, which would allow anyone who wished to to provide monetary support in person once they have seen the importance and signifance of this work for the community themselves. 
+
+
+
 ## 4. Testing
 I had difficulty moving the header logo to the center of the screen on larger devices, thankfully I found a solution on W3Schools, here is the link to the thread:
 
