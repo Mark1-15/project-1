@@ -139,7 +139,7 @@ Secondly, a donate button was planned to be implemented onto the website to poss
 
 For the creating of this website many technologies were used and utilised to bring about the end result.
 
-First of all was git hub, the site you are probably using to view this project and README.md, the code and supporting documents (images etc.) were written and added to git hub, then commited with a commit message, and then finally pushed. The project section was also utilied to arrange the user stories to monitor progress and provide insight and information on what to do next. Markup language has also been used to write up this README.md file.
+First of all was git hub, the site you are probably using to view this project and README.md, the code and supporting documents (images etc.) were written and added to git hub, then commited with a commit message, and then finally pushed. The project section was also utilied to arrange the user stories to monitor progress and provide insight and information on what to do next. Markup language has also been used to write up this README.md file. Also, wireframes on Balsamiq was also used as previously seen, as well as drawing down ideas on paper an jotting down useful points.
 
 The social links in the footer section were taken from a previous project in which I had written up code with Code Institute. Because this code was fully functioning the exact code I was going to write up myself, I thought it good developer practice to save time and copy into my project allowing me to work on other features in the project.
 
@@ -172,3 +172,9 @@ This project was deployed early in development as per good sofware development p
 
 
 ## 6. Credits
+
+Firstly, I would like to thank my mentor for helping me create this project and bring about the final result. He helped me throughout the whole development journey, from brainstorming user stories ideas up to reviewing the code before submission. The useful tips and advice he provide assisted me throught the development of this project. 
+
+I would also like to thank the free technologies that I have been able to use for this project, I will once again mention Bootstrap, Github and Slack for all of these tools that have helped made coding this project possible. 
+
+Last, and certainly not least I would like to once again thank Code Institute. I have learned front end software development in a matter of weeks thank to them and would not have been able to create this project without them. Furthermore, the walkthrough projects throughout this module culminating in this project have been particularly useful. As previously mentioned, 2 small code snippets have been used from previous projects thanks to them. I would not be here without the teaching I have received from Code institute, and hope this project shows the skills I have learned, and now have been able to implement.
