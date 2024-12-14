@@ -139,11 +139,21 @@ Secondly, a donate button was planned to be implemented onto the website to poss
 
 For the creating of this website many technologies were used and utilised to bring about the end result.
 
-First of all was git hub, the site you are probably using to view this project and README.md, the code and supporting documents (images etc.) were written and added to git hub, then commited with a commit message, and then finally pushed. The project section was also utilied to arrange the user stories to monitor progress and provide insight and information on what to do next. 
+First of all was git hub, the site you are probably using to view this project and README.md, the code and supporting documents (images etc.) were written and added to git hub, then commited with a commit message, and then finally pushed. The project section was also utilied to arrange the user stories to monitor progress and provide insight and information on what to do next. Markup language has also been used to write up this README.md file.
 
 The social links in the footer section were taken from a previous project in which I had written up code with Code Institute. Because this code was fully functioning the exact code I was going to write up myself, I thought it good developer practice to save time and copy into my project allowing me to work on other features in the project.
 
 As well as the social links, both of the selector inputs in the booking form were also used from the previous boardwalk games project which I had worked on. I originally intended to keep the selector option on how it came from bootstrap, however, this selector option seemed more responsive, easier to navigate, and looked more professional, hence the reason I used this instead of the original option from bootstrap.
+
+An instrumental tool that was used in this project was Bootstrap Version 5.3 (latest version at the time of this project). The navbar, buttons, the caurosuel on the home page,the activity cards on the activity page, and the booking form on the booking form page were all used from bootstrap. This allowed a more efficient development time as I was able to copy the code from the website and implemented into the html files, and spend more time fixing bugs (usually fixing the position of elements). Therefore, I would like to personally thank Bootstrap for its free services, allowing me to use it's code for my project. 
+
+For this project, I also used NCH Suite Pixillion image converter that allowed me to convert the images that I had found online via google images, and convert them all to a similar size to fit inside elements (such as the carousel, cards etc.) and position correctly with CSS if needed. This also hightened the quality of the images by converting them into a webp format. 
+
+Developer Tools on Google Chrome was also a useful tool that was used in the creaton on this website. I was intrumental in getting the website to be fully reponsive, as using is I could locate where bugs were causing issues and what the buds were, and allowed me to test to see if the site fitted correctly onto each creensize with it's 'responsive design' feature. As of writing this I have yet to test the website with lighthouse, however the lighthouse tool in Google Chrome dev kit will be used to test this website in the next section of this README.md.
+
+HTML5 and CSS3 were both used to code, and therefore create this website. Emmet abbreviation from github to code in these was a very useful feature, as this assited me in coding, decraesing the time spend to write out full blocks of code, allowing me to focus my attention else where. 
+
+I would also like to thank Code Institute for teaching me on how to code in HTML5, CSS3, and on how to use many of the tools listed above. There work on previous projects has helped me carve out ideas for myself and use them in the creation of this website, and as already noted, 2 small code snippets from previous projects with them have been used in this project for efficiency and display.
 
 
 
