@@ -71,19 +71,19 @@
     <form action="submitted.html" method="get">
       <div class="mb-3">
         <label for="name" class="form-label">Full Name</label>
-        <input type="text" class="form-control" id="name" name="name" placeholder="Your full name" aria-describedby="nameinput" required>
+        <input type="text" class="form-control" id="name" name="name" placeholder="Your full name" aria-describedby="name" required>
       </div>
       <div class="mb-3">
         <label for="exampleInputEmail1" class="form-label">Email address</label>
-        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="name@example.com" aria-describedby="emailinput" required>
+        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="name@example.com" aria-describedby="exampleInputEmail1" required>
       </div>
       <div class="mb-3">
         <label for="exampleInputNumber1" class="form-label">Phone number</label>
-        <input type="number" class="form-control" id="exampleInputNumber1" placeholder="0123456789" aria-describedby="numberinput" required>
+        <input type="number" class="form-control" id="exampleInputNumber1" placeholder="0123456789" aria-describedby="exampleInputNumber1" required>
       </div>
       <!-- This event-type form section was used in a previous project of mine (boardwalk games) that I had written up the code with Code Institute-->
-      <label for="event-type" class="form-label">Number of Participants</label>
-        <select id="participants-number" class="form-select" name="participants-number" required>
+      <label for="participants-number" class="form-label">Number of Participants</label>
+        <select id="participants-number" class="form-select" name="participants-number" aria-describedby="participants-number" required>
           <option value="" selected>Select</option>
           <option value="1">1</option>
           <option value="2">2</option>
@@ -96,7 +96,7 @@
         </select>
         <!-- This event-type form section was used in a previous project of mine (boardwalk games) that I had written up the code with Code Institute-->
         <label for="event-type" class="form-label mt-4">Activity Selection</label>
-        <select id="participants-number" class="form-select" name="participants-number" required>
+        <select id="event-type" class="form-select" name="participants-number" aria-describedby="event-type" required>
           <option value="" selected>Select</option>
           <option value="1">Coffee Morning</option>
           <option value="2">Gospel Meeting</option>
@@ -106,7 +106,7 @@
 
         <div class="my-4">
           <label for="date" class="form-label">Date</label>
-          <input type="date" class="form-control" id="date" placeholder="day/month/year" aria-describedby="date input" required>
+          <input type="date" class="form-control" id="date" aria-describedby="date" required>
         </div>
       
       <div class="text-center my-4">
@@ -124,7 +124,8 @@
         <h2>Contact Us</h2>
         <p>Email: hopehouse@example.com</p>
         <p>Phone: +123 456 7890</p>
-        <p>Follow our socials: 
+        <div>
+        <p>Follow our socials:</p>
           <!-- This social links section was used in a previous project of mine (boardwalk games) that I had written up the code with Code Institute-->
           <div class="social-links my-4">
           <a href="https://www.instagram.com" target="_blank"
@@ -137,8 +138,8 @@
                   <br>
           <a href="https://www.x.com" target="_blank" aria-label="Visit our X feed (opens in a new tab)"
               rel="noopener"><i class="fa-brands fa-x-twitter social-links">Twitter/X</i></a>
+        </div>
       </div>
-    </p>
         <p>Address: 123 High Street, Carmarthen, Wales / SA32 2JD</p>
       </div>
     </div>

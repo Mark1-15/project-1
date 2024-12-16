@@ -173,6 +173,8 @@ I also used previous examples of adding a media query into the css file of the p
 
 I firstly, to test my HTML code I used the industry recognised W3C Markup validator (link below). When I first did this a number of errors arose as the image names that I am using for this project had spaces in the file titles, spaces are invalid for file titles in HTML. I therefore removed the spaces and added a - in it's place. The validator also pointed out that I had used the the ID "about-us" twice, for 2 different elements. Because of this, i changed this attribute from an ID to a class which solved the issue. I then also added a did in the footer socials section, and moved the closing paragraph element which was at the end ov the social links section, closing it off. But this was changed with a div element and the paragraph closing element was moved to after the 'follow our socials:' text. A warning remained as I had not used a specific heading element but this was no issue as no heading element was used until after the logo and carousel in index.html.
 
+For booking-form.html, 
+
 ![alt text](readme-documents/image-13.png)
 
 [View HTML Validator here](https://validator.w3.org/)
@@ -193,7 +195,9 @@ Overall good results from the 3 main scores as can be seen, but taking a closer 
 
 ![alt text](readme-documents/image-16.png)
 
+The accessability rating of this website rests at a high score of 95, but a few minor improvements could still be made. One of which was the contrasting of colour between the links and the background colour of the footer, the dark blue colour sitting on a dark brown can be difficult to see, therefore I have created a new CSS class that changes the colour of these social links from the dark blue to a light blue, heavily contrasting the backgrounsd, making it easier to see and more accessable for users.
 
+![alt text](readme-documents/image-17.png)
 
 ## 5.Deployment
 
