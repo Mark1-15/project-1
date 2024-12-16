@@ -147,7 +147,7 @@ As well as the social links, both of the selector inputs in the booking form wer
 
 An instrumental tool that was used in this project was Bootstrap Version 5.3 (latest version at the time of this project). The navbar, buttons, the caurosuel on the home page,the activity cards on the activity page, and the booking form on the booking form page were all used from bootstrap. This allowed a more efficient development time as I was able to copy the code from the website and implemented into the html files, and spend more time fixing bugs (usually fixing the position of elements). Therefore, I would like to personally thank Bootstrap for its free services, allowing me to use it's code for my project. 
 
-For this project, I also used NCH Suite Pixillion image converter that allowed me to convert the images that I had found online via google images, and convert them all to a similar size to fit inside elements (such as the carousel, cards etc.) and position correctly with CSS if needed. This also hightened the quality of the images by converting them into a webp format. 
+For this project, I also used NCH Suite Pixillion image converter that allowed me to convert the images that I had found online via google images, and convert them all to a similar size to fit inside elements (such as the carousel, cards etc.) and position correctly with CSS if needed. This also hightened the quality of the images by converting them into a jpg/jpeg format. 
 
 Developer Tools on Google Chrome was also a useful tool that was used in the creaton on this website. I was intrumental in getting the website to be fully reponsive, as using is I could locate where bugs were causing issues and what the buds were, and allowed me to test to see if the site fitted correctly onto each creensize with it's 'responsive design' feature. As of writing this I have yet to test the website with lighthouse, however the lighthouse tool in Google Chrome dev kit will be used to test this website in the next section of this README.md.
 
@@ -189,7 +189,11 @@ Using Chrome Dev Tools, i was able to use the Lighthouse tool to test the reliab
 
 ![alt text](readme-documents/image-15.png)
 
-Overall good results from the 3 main scores
+Overall good results from the 3 main scores as can be seen, but taking a closer look at the points noted down a few adjustments could have been made to improve the performance. The main point being that images could have been formatted to a webp or AVIF format for more efficient image compression.
+
+![alt text](readme-documents/image-16.png)
+
+
 
 ## 5.Deployment
 
