@@ -181,7 +181,9 @@ For booking-form.html, some of the aria labels in the input fields were noted in
 
 ![alt text](readme-documents/image-18.png)
 
-For activities.html, 
+For activities.html, no errors were found apart from the same footer paragraph errors as the others. This has now been corrected, and no errors remain as seen below.
+
+![alt text](readme-documents/image-19.png)
 
 Secondly, I used the W3C CSS validator (link below) to test my custon CSS. As seen in the image below, no error's were found and all the CSS code created and used is valid and working properly.
 
