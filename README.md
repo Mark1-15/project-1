@@ -185,6 +185,10 @@ For activities.html, no errors were found apart from the same footer paragraph e
 
 ![alt text](readme-documents/image-19.png)
 
+Just like activities.html, submitted.html had no errors apart from the same footer paragraph errors as the others. This has now been corrected, and no errors remain as seen below.
+
+![alt text](readme-documents/image-20.png)
+
 Secondly, I used the W3C CSS validator (link below) to test my custon CSS. As seen in the image below, no error's were found and all the CSS code created and used is valid and working properly.
 
 ![alt text](readme-documents/image-14.png)
@@ -197,7 +201,7 @@ Using Chrome Dev Tools, i was able to use the Lighthouse tool to test the reliab
 
 ![alt text](readme-documents/image-15.png)
 
-Overall good results from the 3 main scores as can be seen, but taking a closer look at the points noted down a few adjustments could have been made to improve the performance. The main point being that images could have been formatted to a webp or AVIF format for more efficient image compression.
+Overall good results from the 3 main scores as can be seen, but taking a closer look at the points noted down a few adjustments could have been made to improve the performance. The main point being that images could have been formatted to a webp or AVIF format for more efficient image compression. Yet with that said, image sizes were still small enough (hardly if exceeding 500kb) not to impact the user experience. Furthermore, the carousel from bootstrap also assists as only the first image of the carousel needs to load for the page to load, as the other images can load as the carousel cycles through the images.
 
 ![alt text](readme-documents/image-16.png)
 
