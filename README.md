@@ -205,9 +205,15 @@ Overall good results from the 3 main scores as can be seen, but taking a closer 
 
 ![alt text](readme-documents/image-16.png)
 
-The accessability rating of this website rests at a high score of 95, but a few minor improvements could still be made. One of which was the contrasting of colour between the links and the background colour of the footer, the dark blue colour sitting on a dark brown can be difficult to see, therefore I have created a new CSS class that changes the colour of these social links from the dark blue to a light blue, heavily contrasting the backgrounsd, making it easier to see and more accessable for users.
+The accessability rating of this website rests at a high score of 95, but a few minor improvements could still be made. One of which was the contrasting of colour between the links and the background colour of the footer, the dark blue colour sitting on a dark brown can be difficult to see, therefore I have created a new CSS class that changes the colour of these social links from the dark blue to a light blue, heavily contrasting the backgrounsd, making it easier to see and more accessable for users, increasing the score to 100.
 
 ![alt text](readme-documents/image-17.png)
+
+The best practices section scored 96, the only issue raised was that the logo sometimes displays with an inconsistent aspect ration. Though brought up as an issue, this is minor and will not impact user experience, and was designed like this to ensure that the logo image is responsive and changes to different screen sizes, this being a justifyable reason.
+
+##### Story Testing
+
+
 
 ## 5.Deployment
 
