@@ -217,6 +217,52 @@ The best practices section scored 96, the only issue raised was that the logo so
 
 ## 5.Deployment
 
+This project was deployed using CLOUD9 IDE, committed to git, and then pushed to github using the built in function within cloud9.
+
+To deploy the project from the Github repository to Github pages, the following steps were taken:
+
+##### 1. Log into Github
+
+##### 2. From the list of repositories on the screen, select Mark1-15/project-1
+
+##### 3. From the menu items near the top of the page, select settings
+
+##### 4. Scroll down to the Github pages section
+
+##### 5. Under Source, click the dropdown menu labelled None and select Master Branch.
+
+##### 6. On selecting Master Branch, the page is automatically refreshed, the website is now deployed.
+
+##### 7. Scroll back down to the github pages section to retrieve the link to the deployed website
+
+At the moment of submitting this milestone project, the Development Branch and the Master Branch are identical.
+
+### How to run this project locally
+
+To clone this project from Github:
+
+##### 1. Follow this link to the Project Github repository:
+
+https://github.com/Mark1-15/project-1 
+
+##### 2. Under the repository name, click 'clone' or 'download' (click the green code button for dropdown)
+
+##### 3. In the clone with with HTTPs section, copy the clone URL for the repository.
+
+##### 4. In your local IDE open Git Bash 
+
+##### 5. Change the current working directory to the location where you want the cloned directory to be made
+
+##### 6. Type 'git clone', and then paste the URL you copied in step 3
+
+##### 7. Press enter, your local clone will be created
+
+You will need a github account and the chrome browser for this.
+
+Here is the github guide for cloning repositories:
+
+https://pages.github.com/ 
+
 This project was deployed early in development as per good sofware development practice to help spot bugs as they appeared on a real website and not just a developer environment. Since deployment, there were no bugs that appeared on the live deployment that weren't in the developer environment. Overall the deployment of this website was a smooth experience, with no issues flagging up as a result.
 
 
