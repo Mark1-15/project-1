@@ -158,6 +158,9 @@ I would also like to thank Code Institute for teaching me on how to code in HTML
 
 
 ## 4. Testing
+
+##### Bug Fixes
+
 I had difficulty moving the header logo to the center of the screen on larger devices, thankfully I found a solution on W3Schools, here is the link to the thread:
 
 {Stack overflow link}(https://www.w3schools.com/howto/howto_css_image_center.asp)
@@ -166,9 +169,27 @@ I also used previous examples of adding a media query into the css file of the p
 
 {My Boardwalk Games Project}(https://github.com/Mark1-15/boardwalk-games/blob/main/assets/css/style.css)
 
-I firstly, to test my HTML code I used the industry recognised W3C Markup validator (link below). When I first did this a number of errors arose as the image names that I am using for this project had spaces in the file titles, spaces are invalid for file titles in HTML. I therefore removed the spaces and added a - in it's place. The validator also pointed out that I had used the the ID "about-us" twice, for 2 different elements. Because of this, i changed this attribute from an ID to a class which solved the issue. I then also added a did in the footer socials section, and moved the closing paragraph element which was at the end ov the social links section, closing it off. But this was changed with a div element and the paragrapg closing element was moved to after the 'follow our socials:' text.
+##### Code Testing
 
-[View Validator here](https://validator.w3.org/)
+I firstly, to test my HTML code I used the industry recognised W3C Markup validator (link below). When I first did this a number of errors arose as the image names that I am using for this project had spaces in the file titles, spaces are invalid for file titles in HTML. I therefore removed the spaces and added a - in it's place. The validator also pointed out that I had used the the ID "about-us" twice, for 2 different elements. Because of this, i changed this attribute from an ID to a class which solved the issue. I then also added a did in the footer socials section, and moved the closing paragraph element which was at the end ov the social links section, closing it off. But this was changed with a div element and the paragraph closing element was moved to after the 'follow our socials:' text. A warning remained as I had not used a specific heading element but this was no issue as no heading element was used until after the logo and carousel in index.html.
+
+![alt text](readme-documents/image-13.png)
+
+[View HTML Validator here](https://validator.w3.org/)
+
+Secondly, I used the W3C CSS validator (link below) to test my custon CSS. As seen in the image below, no error's were found and all the CSS code created and used is valid and working properly.
+
+![alt text](readme-documents/image-14.png)
+
+[View CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+
+##### Lighthouse
+
+Using Chrome Dev Tools, i was able to use the Lighthouse tool to test the reliability and functionality of the website from a user end point of view. I decided to use incognito mode to run the test as this blocks and web extensions that can falsely hinder results. After first running the test, here are the results I received:
+
+![alt text](readme-documents/image-15.png)
+
+Overall good results from the 3 main scores
 
 ## 5.Deployment
 
