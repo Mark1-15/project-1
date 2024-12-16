@@ -57,6 +57,10 @@ footer {
     max-height: 174.34px;
 }
 
+#activities {
+    color: #873e23;
+}
+
 /* Media query */
 /* I had learned this media query from my previously coded boardwalk games project with code institute */
 /* Medium devices (tablets, 768px and up) */
