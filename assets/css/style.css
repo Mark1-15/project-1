@@ -35,6 +35,12 @@ footer {
     color: white !important;
 }
 
+.social-links {
+    background-color: transparent;
+    color: lightblue;
+    text-decoration: none;
+}
+
 /* Activities page */
 /* Logo center class on activities page */
 /* Retrieved from w3schools - how to center an image on CSS */
