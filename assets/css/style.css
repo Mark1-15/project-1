@@ -12,28 +12,12 @@ section {
         color: #873e23;
 }
 
-/* Activities page */
-/* Logo center class on activities page */
-/* Retrieved from w3schools - how to center an image on CSS */
-.logo-center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    max-height: 300px;
-    max-width: 300px;
-}
-
-.activity-cards-img {
-    max-height: 174.34px;
-}
-
 /*Header*/
 header {
     background-color: #873e23;
 }
 
-/* About Us */
+/* About Us section */
 
 .aboutus-text {
     color: #873e23;
@@ -51,10 +35,21 @@ footer {
     color: white !important;
 }
 
+/* Activities page */
+/* Logo center class on activities page */
+/* Retrieved from w3schools - how to center an image on CSS */
+.logo-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-height: 300px;
+    max-width: 300px;
+}
 
-/* Button */
-
-
+.activity-cards-img {
+    max-height: 174.34px;
+}
 
 /* Media query */
 /* I had learned this media query from my previously coded boardwalk games project with code institute */
