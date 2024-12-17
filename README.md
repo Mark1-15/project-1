@@ -231,9 +231,13 @@ Next, information regarding the contact details and opening times were required.
 
 ![alt text](readme-documents/image-24.png)
 
-The last user story to be implemented into this project was regarding engaging images. Though not a vital 'must-have' feature, it's still important and a 'should-have' feature and should be on the website to convey the atmosphere and contents of the activities. Though the highest image format webp was not used, a the jpg/jpeg images are still of a high enough quality to be seen professionally, to showcase the activities and general themes of Hope House. Furthermore, all show correctly on the page as the correct filepaths are used in the project. Therefore the acceptance criteria for this user story have been fully met. 
+The last user story to be implemented into this project was regarding engaging images. Though not a vital 'must-have' feature, it's still important and a 'should-have' feature and should be on the website to convey the atmosphere and contents of the activities. Though the highest image format webp was not used as time had ran out before I realised to convert them from jpg to webp, but the jpg/jpeg images are still of a high enough quality to be seen professionally, to showcase the activities and general themes of Hope House. Furthermore, all show correctly on the page as the correct filepaths are used in the project. Therefore the acceptance criteria for this user story have been fully met. 
 
 ![alt text](readme-documents/image-25.png)
+
+The remaining 2 user stories were not able to be implemented into the project as time had ran out. However, they were not necessary and only rated as 'could-have'. However, the safety verification user story is arguably partially implemented via the modal button on the activities page mentioning the 5 star food safety award this organisation has. If given enough time however, this would have been fully implemented as well as a donation button for the other user story.
+
+![alt text](readme-documents/image-26.png)
 
 
 
