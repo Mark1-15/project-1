@@ -247,10 +247,43 @@ This section will document the testing the website will under go to ensure every
 | Action        | Expected behaviour  | Pass/Fail|
 | ------------- |:-------------:| -----:|
 | Click on Nav icon | Take you to homepage | Pass |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Click on Home title on nav on every page | Takes you to the home page/index.html| Pass|
+| Click on Activities title on nav on every page | Takes you to the activities page/activities.html| Pass|
+| Click on Booking form title on nav on every page | Takes you to the booking form page/booking-form.html| Pass|
+| Click on Contact us title on nav on every page | Takes you to the footer on each page| Pass|
+| Click on Carousel buttons | Cycle forward and backwards through the carousel| Pass|
+| Watch Carousel | Cycle forward through the carousel automatically| Pass|
+| Click on Activities button, bottom of home | Takes you to the activities page/activities.html| Pass|
+| Click on Book Here button, bottom of home | Takes you to the booking form page/booking-form.html| Pass|
+| Click on Footer social links on each page | Takes you to the appropriate website| Pass|
+| Click on Book Here button, bottom of activities page | Takes you to the booking form page/booking-form.html| Pass|
+| Click on Extra Information button, bottom of Activities page | A closeable modal with extra info pops up on the screen over the content| Pass (see screenshot below)|
+| Click on Submit button on the empty booking form page | A warning should show for each input box if not filled in properly| Pass (see screenshots below)|
+| Click on Submit button on correctly filled booking form page | Should redirect to booking confirmed page/submitted.html| Pass (see screenshot below)|
+| Click on Home button on Booking confirmed page/submitted.html | Takes you back to the Home page | Pass|
+
+Modal with extra info:
 
 
+![alt text](readme-documents/image-27.png)
+
+Error warnings display on fields filled incorrectly:
+
+![alt text](readme-documents/image-28.png)
+
+![alt text](readme-documents/image-29.png)
+
+![alt text](readme-documents/image-30.png)
+
+![alt text](readme-documents/image-31.png)
+
+![alt text](readme-documents/image-32.png)
+
+![alt text](readme-documents/image-33.png)
+
+Success page reached from submit button after all fields are filled correctly:
+
+![alt text](readme-documents/image-34.png)
 
 ## 5.Deployment
 
