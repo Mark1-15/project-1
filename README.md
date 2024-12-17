@@ -151,7 +151,7 @@ For this project, I also used NCH Suite Pixillion image converter that allowed m
 
 Developer Tools on Google Chrome was also a useful tool that was used in the creaton on this website. I was intrumental in getting the website to be fully reponsive, as using is I could locate where bugs were causing issues and what the buds were, and allowed me to test to see if the site fitted correctly onto each creensize with it's 'responsive design' feature. As of writing this I have yet to test the website with lighthouse, however the lighthouse tool in Google Chrome dev kit will be used to test this website in the next section of this README.md.
 
-HTML5 and CSS3 were both used to code, and therefore create this website. Emmet abbreviation from github to code in these was a very useful feature, as this assited me in coding, decraesing the time spend to write out full blocks of code, allowing me to focus my attention else where. 
+HTML5 and CSS3 were both used to code, and therefore create this website. Emmet abbreviation from github to code in these was a very useful feature, as this assited me in coding, decraesing the time spend to write out full blocks of code, allowing me to focus my attention else where. Google fonts were also used to implement the fonts used in this project.
 
 I would also like to thank Code Institute for teaching me on how to code in HTML5, CSS3, and on how to use many of the tools listed above. There work on previous projects has helped me carve out ideas for myself and use them in the creation of this website, and as already noted, 2 small code snippets from previous projects with them have been used in this project for efficiency and display.
 
@@ -358,3 +358,4 @@ I would like to thank the solution I found on Stack overflow for a bug fix, and 
 {My Boardwalk Games Project}(https://github.com/Mark1-15/boardwalk-games/blob/main/assets/css/style.css)
 
 Last, and certainly not least I would like to once again thank Code Institute. I have learned front end software development in a matter of weeks thank to them and would not have been able to create this project without them. Furthermore, the walkthrough projects throughout this module culminating in this project have been particularly useful. As previously mentioned, 2 small code snippets have been used from previous projects thanks to them. I would not be here without the teaching I have received from Code institute, and hope this project shows the skills I have learned, and now have been able to implement.
+
