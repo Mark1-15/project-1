@@ -261,6 +261,7 @@ This section will document the testing the website will under go to ensure every
 | Click on Submit button on the empty booking form page | A warning should show for each input box if not filled in properly| Pass (see screenshots below)|
 | Click on Submit button on correctly filled booking form page | Should redirect to booking confirmed page/submitted.html| Pass (see screenshot below)|
 | Click on Home button on Booking confirmed page/submitted.html | Takes you back to the Home page | Pass|
+| Check each page to see if favicons display correctly on each page | Favicons display correctly on each page| Pass|
 
 Modal with extra info:
 
@@ -341,5 +342,11 @@ This project was deployed early in development as per good sofware development p
 Firstly, I would like to thank my mentor for helping me create this project and bring about the final result. He helped me throughout the whole development journey, from brainstorming user stories ideas up to reviewing the code before submission. The useful tips and advice he provide assisted me throught the development of this project. 
 
 I would also like to thank the free technologies that I have been able to use for this project, I will once again mention Bootstrap, Github and Slack for all of these tools that have helped made coding this project possible. 
+
+I would like to thank the solution I found on Stack overflow for a bug fix, and reference one of my previous project in which I used 2 small code snippets for my project.
+
+{Stack overflow link}(https://www.w3schools.com/howto/howto_css_image_center.asp)
+
+{My Boardwalk Games Project}(https://github.com/Mark1-15/boardwalk-games/blob/main/assets/css/style.css)
 
 Last, and certainly not least I would like to once again thank Code Institute. I have learned front end software development in a matter of weeks thank to them and would not have been able to create this project without them. Furthermore, the walkthrough projects throughout this module culminating in this project have been particularly useful. As previously mentioned, 2 small code snippets have been used from previous projects thanks to them. I would not be here without the teaching I have received from Code institute, and hope this project shows the skills I have learned, and now have been able to implement.
