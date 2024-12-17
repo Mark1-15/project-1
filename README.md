@@ -213,6 +213,24 @@ The best practices section scored 96, the only issue raised was that the logo so
 
 ##### Story Testing
 
+This section will lokk back onto the user stories to show how the end result has met the 'must-have' and 'should-have' user stories criteria.
+
+Firstly, the website should have been fully responsive while also being easy to navigate. The end product is fully reponsive and looks good reagrdless of what screen size is being used, and the layout of the pages have been designed in a way that they are easy to look at and follow, with the information first displayed to the user, then followed by prompts for either further information if the user wishes, or to book an activity. Therefore the tasks completed meant that the acceptance criteria for this user story has been met.
+
+![alt text](readme-documents/image-21.png)
+
+Secondly, the website should have been fully informative. A welcome introduction for the purpose of the website/organisation is found on the home page, with this expanding further as the user navigates through the site on the activities page, where a full description is provided for each activity, along with a photo for each activity, and a button at the bottom of the activities page promting a modal explaining that the cost is free and any refreshments provided has met the governmental food  hygiene and safety standard. Therefore, as the website is fully informative, providing all information would need in the appropriate sections/pages on the site, the acceptance criteria for this user story has been met.
+
+![alt text](readme-documents/image-22.png)
+
+Thirdly, the user story requested a fully functional bookinng form, along with a separate page dedicated to showing what activities are available to book onto. This user story has been implemented through both pages activities.html, and booking-form.html. booking-form.html is a separate page with a fully functioning booking form, requiring all field to be filled appropriately before being able to be submitted, ensuring all required information is correct and captured. The activities.html page highlights all available activities through bootstrap cards, highlighting who the activities are for and are easily distinguishable from one another by the descriptions and images. Therefore the acceptance criteria for this user story has been fully met.
+
+![alt text](readme-documents/image-23.png)
+
+Next, 
+
+
+
 
 
 ## 5.Deployment
