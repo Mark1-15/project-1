@@ -240,6 +240,17 @@ The remaining 2 user stories were not able to be implemented into the project as
 ![alt text](readme-documents/image-26.png)
 
 
+##### Functionality Testing
+
+This section will document the testing the website will under go to ensure everything about the website is working as it should be. A table is below noting the action to test, the expected behaviour, and whether or not it passes or fails. 
+
+| Action        | Expected behaviour  | Pass/Fail|
+| ------------- |:-------------:| -----:|
+| Click on Nav icon | Take you to homepage | Pass |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 
 ## 5.Deployment
 
