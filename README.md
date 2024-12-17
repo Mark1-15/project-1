@@ -1,6 +1,6 @@
 # README.md For Milestone Project 1
 
-The purpose of this project was to create a website (front end) of a fictitious organisation to demonstrate the skills that I have developed on my diploma in web development in code institute.
+The purpose of this project was to create a website (front end) of a fictitious organisation to demonstrate the skills that I have developed on my diploma in web development with code institute.
 
 ## Table of Contents
 
@@ -24,9 +24,40 @@ The purpose of this project was to create a website (front end) of a fictitious 
 - Features Left to Implement 
 
 #### 3. Technologies Used
+
+- Github
+
+- Bootstrap 
+
+- NCH Suite Pixillion image converter
+
+- Chrome Dev Tools 
+
+- HTML5 & CSS3
+
+
 #### 4. Testing
+
+- Bug fixes
+
+- Code Testing 
+
+- Lighthouse
+
+- Story Testing 
+
+- Functionality Testing
+
+
 #### 5. Deployment
+
+- How I deployed the project
+
+- How to clone this project 
+
 #### 6. Credits 
+
+- Credits to those who've helped the creation of this project
 
 ## UX
 
@@ -119,7 +150,7 @@ There is a logo that displays the organisations name, sat in a warm, cozy and co
 
 There is a footer on every page that can also be navigated to easily with the navbar that contains the organisation's contact information. It contains a phone number and email address, allowing anyone to easily contact the organisation, it has an address that welcomes anyone to the physical building, and it also contains social media links linking users to the organisation's social media pages to discover more about the organisation, its activities while providing an authentic look on what the activities actually look like. Activity times are also noted on the activity card descriptions.
 
-There is a booking page that allows users fo fill out fields, providing personal information about themselves while also allowing the to choose and activity to attend, with the amount of people they intend to bring and choose a specific date for it.
+There is a booking page that allows users fo fill out fields, providing personal information about themselves while also allowing users to choose the activity to attend, with the amount of people they intend to bring and choose a specific date for it.
 
 This webside has a carousel, displaying high quality images displaying the kind of atmosphere, environment, and activities this organisation produces.
 
@@ -128,7 +159,7 @@ A modal is also used for costing information and safety verfication.
 
 ##### Features left to implement
 
-Due to time contraints, there are certain 'should-have' priority level features that were unable to be implemented into the project. Though unfortuante, this is not a significant issue as the priority and usefulness of these features was low and the website is still fully functioning and finished without them.
+Due to time contraints, there are certain 'could-have' priority level features that were unable to be implemented into the project. Though unfortuante, this is not a significant issue as the priority and usefulness of these features was low and the website is still fully functioning and finished without them.
 
 Firstly, a safety verification badge for the refreshments provided would have enhanced the professionalism and authenticity of this website, while also providing a reassurance to anyone with concerns. However, the impact of this is minimal, if any. Despite this a note is left on the modal explaining that this organisation adheres to all food and safety regulation.
 
@@ -137,21 +168,25 @@ Secondly, a donate button was planned to be implemented onto the website to poss
 
 ## 3. Technologies Used
 
-For the creating of this website many technologies were used and utilised to bring about the end result.
+For the creation of this website many technologies were used and utilised to bring about the end result.
 
-First of all was git hub, the site you are probably using to view this project and README.md, the code and supporting documents (images etc.) were written and added to git hub, then commited with a commit message, and then finally pushed. The project section was also utilied to arrange the user stories to monitor progress and provide insight and information on what to do next. Markup language has also been used to write up this README.md file. Also, wireframes on Balsamiq was also used as previously seen, as well as drawing down ideas on paper an jotting down useful points.
+First of all was Git hub, the site you are probably using to view this project and README.md. The code and supporting documents (images etc.) were written and added to Git hub, then commited with a commit message, and then finally pushed. The project section was also utilied to arrange the user stories to monitor progress and provide insight and information on what to do next. Markup language has also been used to write up this README.md file. 
 
-The social links in the footer section were taken from a previous project in which I had written up code with Code Institute. Because this code was fully functioning the exact code I was going to write up myself, I thought it good developer practice to save time and copy into my project allowing me to work on other features in the project.
+Wireframes on Balsamiq was also used as previously seen, as well as drawing down ideas on paper an jotting down useful points.
+
+The social links in the footer section were taken from a previous project in which I had written up code with Code Institute. Because this code was fully functioning and like the exact code I was going to write up myself, I thought it good developer practice to save time and copy into my project allowing me to work on other features in the project.
 
 As well as the social links, both of the selector inputs in the booking form were also used from the previous boardwalk games project which I had worked on. I originally intended to keep the selector option on how it came from bootstrap, however, this selector option seemed more responsive, easier to navigate, and looked more professional, hence the reason I used this instead of the original option from bootstrap.
 
-An instrumental tool that was used in this project was Bootstrap Version 5.3 (latest version at the time of this project). The navbar, buttons, the caurosuel on the home page,the activity cards on the activity page, and the booking form on the booking form page were all used from bootstrap. This allowed a more efficient development time as I was able to copy the code from the website and implemented into the html files, and spend more time fixing bugs (usually fixing the position of elements). Therefore, I would like to personally thank Bootstrap for its free services, allowing me to use it's code for my project. 
+An instrumental tool that was used in this project was Bootstrap Version 5.3 (latest version at the time of this project). The navbar, buttons, the caurosuel on the home page, the activity cards on the activity page, and the booking form on the booking form page were all used from bootstrap. This allowed a more efficient development time as I was able to copy the code from the website and implemented into the html files, and spend more time fixing bugs (usually fixing the position of elements). Therefore, I would like to personally thank Bootstrap for its free services, allowing me to use it's code for my project. 
 
 For this project, I also used NCH Suite Pixillion image converter that allowed me to convert the images that I had found online via google images, and convert them all to a similar size to fit inside elements (such as the carousel, cards etc.) and position correctly with CSS if needed. This also hightened the quality of the images by converting them into a jpg/jpeg format. 
 
-Developer Tools on Google Chrome was also a useful tool that was used in the creaton on this website. I was intrumental in getting the website to be fully reponsive, as using is I could locate where bugs were causing issues and what the buds were, and allowed me to test to see if the site fitted correctly onto each creensize with it's 'responsive design' feature. As of writing this I have yet to test the website with lighthouse, however the lighthouse tool in Google Chrome dev kit will be used to test this website in the next section of this README.md.
+Developer Tools on Google Chrome was also a useful tool that was used in the creaton on this website. It was intrumental in getting the website to be fully reponsive, as using it I could locate where bugs were causing issues and what the bugs were, and allowed me to test to see if the site fitted correctly onto each screensize with it's 'responsive design' feature. As of writing this I have yet to test the website with lighthouse, however the lighthouse tool in Google Chrome dev kit will be used to test this website in the next section of this README.md.
 
-HTML5 and CSS3 were both used to code, and therefore create this website. Emmet abbreviation from github to code in these was a very useful feature, as this assited me in coding, decraesing the time spend to write out full blocks of code, allowing me to focus my attention else where. Google fonts were also used to implement the fonts used in this project.
+HTML5 and CSS3 were both used to code, and therefore create this website. Emmet abbreviation from github to code in these was a very useful feature, as this assited me in coding, decreasing the time spent to write out full blocks of code, allowing me to focus my attention elsewhere. 
+
+Google fonts were also used to implement the fonts used in this project.
 
 I would also like to thank Code Institute for teaching me on how to code in HTML5, CSS3, and on how to use many of the tools listed above. There work on previous projects has helped me carve out ideas for myself and use them in the creation of this website, and as already noted, 2 small code snippets from previous projects with them have been used in this project for efficiency and display.
 
@@ -165,19 +200,19 @@ I had difficulty moving the header logo to the center of the screen on larger de
 
 {Stack overflow link}(https://www.w3schools.com/howto/howto_css_image_center.asp)
 
-I also used previous examples of adding a media query into the css file of the project. Here ia a link to the previous project I worked on coding alongside members from code institute:
+I also used previous examples of adding a media query into the css file of the project, as the logo image in the top of the screen wouldn't automatically move to the correct position when changing screen sizes. Here ia a link to the previous project I worked on coding alongside members from code institute:
 
 {My Boardwalk Games Project}(https://github.com/Mark1-15/boardwalk-games/blob/main/assets/css/style.css)
 
 ##### Code Testing
 
-I firstly, to test my HTML code I used the industry recognised W3C Markup validator (link below). When I first did this a number of errors arose as the image names that I am using for this project had spaces in the file titles, spaces are invalid for file titles in HTML. I therefore removed the spaces and added a - in it's place. The validator also pointed out that I had used the the ID "about-us" twice, for 2 different elements. Because of this, i changed this attribute from an ID to a class which solved the issue. I then also added a did in the footer socials section, and moved the closing paragraph element which was at the end ov the social links section, closing it off. But this was changed with a div element and the paragraph closing element was moved to after the 'follow our socials:' text. A warning remained as I had not used a specific heading element but this was no issue as no heading element was used until after the logo and carousel in index.html.
+Firstly, to test my HTML code I used the industry recognised W3C Markup validator (link below). When I first did this a number of errors arose as the image names that I am using for this project had spaces in the file titles, spaces are invalid for file titles in HTML. I therefore removed the spaces and added a - in it's place. The validator also pointed out that I had used the the ID "about-us" twice, for 2 different elements. Because of this, i changed this attribute from an ID to a class which solved the issue. I then also added a div in the footer socials section, and moved the closing paragraph element which was at the end of the social links section, closing it off. But this was changed with a div element and the paragraph closing element was moved to after the 'follow our socials:' text. A warning remained as I had not used a specific heading element but this was not an issue as no heading element was used until after the logo and carousel in index.html.
 
 ![HTML No errors in Validator](readme-documents/image-13.png)
 
 [View HTML Validator here](https://validator.w3.org/)
 
-For booking-form.html, some of the aria labels in the input fields were noted incorrectly as well as the same paragraph problem in index.html. I have now corrected this and tested in the validator. A seen below, no errors are found in this html form.
+For booking-form.html, some of the aria labels in the input fields were noted incorrectly as well as the same paragraph problem in index.html. I have now corrected this and tested in the validator. As seen below, no errors are found in this html form.
 
 ![HTML No errors in Validator](readme-documents/image-18.png)
 
@@ -213,9 +248,9 @@ The best practices section scored 96, the only issue raised was that the logo so
 
 ##### Story Testing
 
-This section will lokk back onto the user stories to show how the end result has met the 'must-have' and 'should-have' user stories criteria.
+This section will look back onto the user stories to show how the end result has met the 'must-have' and 'should-have' user stories criteria.
 
-Firstly, the website should have been fully responsive while also being easy to navigate. The end product is fully reponsive and looks good reagrdless of what screen size is being used, and the layout of the pages have been designed in a way that they are easy to look at and follow, with the information first displayed to the user, then followed by prompts for either further information if the user wishes, or to book an activity. Therefore the tasks completed meant that the acceptance criteria for this user story has been met.
+Firstly, the website should have been fully responsive while also being easy to navigate. The end product is fully reponsive and looks good regardless of what screen size is being used, and the layout of the pages have been designed in a way that they are easy to look at and follow, with the information first displayed to the user, then followed by prompts for either further information if the user wishes, or to book an activity. Therefore the tasks completed meant that the acceptance criteria for this user story has been met.
 
 ![user story 1](readme-documents/image-21.png)
 
@@ -223,7 +258,7 @@ Secondly, the website should have been fully informative. A welcome introduction
 
 ![user story 2](readme-documents/image-22.png)
 
-Thirdly, the user story requested a fully functional bookinng form, along with a separate page dedicated to showing what activities are available to book onto. This user story has been implemented through both pages activities.html, and booking-form.html. booking-form.html is a separate page with a fully functioning booking form, requiring all field to be filled appropriately before being able to be submitted, ensuring all required information is correct and captured. The activities.html page highlights all available activities through bootstrap cards, highlighting who the activities are for and are easily distinguishable from one another by the descriptions and images. Therefore the acceptance criteria for this user story has been fully met.
+Thirdly, the user story requested a fully functional booking form, along with a separate page dedicated to showing what activities are available to book onto. This user story has been implemented through both pages activities.html, and booking-form.html. booking-form.html is a separate page with a fully functioning booking form, requiring all fields to be filled appropriately before being able to be submitted, ensuring all required information is correct and captured. The activities.html page highlights all available activities through bootstrap cards, highlighting who the activities are for and are easily distinguishable from one another by the descriptions and images. Therefore the acceptance criteria for this user story has been fully met.
 
 ![user story 3](readme-documents/image-23.png)
 
@@ -242,7 +277,7 @@ The remaining 2 user stories were not able to be implemented into the project as
 
 ##### Functionality Testing
 
-This section will document the testing the website will under go to ensure everything about the website is working as it should be. A table is below noting the action to test, the expected behaviour, and whether or not it passes or fails. 
+This section will document the testing the website will undergo to ensure everything about the website is working as it should be. A table is below noting the action to test, the expected behaviour, and whether or not it passes or fails. 
 
 | Action        | Expected behaviour  | Pass/Fail|
 | ------------- |:-------------:| -----:|
@@ -296,7 +331,7 @@ This website is fully responsive, and adapts to fit to different screensizes, so
 
 ## 5.Deployment
 
-This project was deployed using CLOUD9 IDE, committed to git, and then pushed to github using the built in function within cloud9.
+This project was deployed using CLOUD9 IDE, committed to git, and then pushed to Github using the built in function within Cloud9.
 
 To deploy the project from the Github repository to Github pages, the following steps were taken:
 
@@ -347,7 +382,7 @@ This project was deployed early in development as per good sofware development p
 
 ## 6. Credits
 
-Firstly, I would like to thank my mentor for helping me create this project and bring about the final result. He helped me throughout the whole development journey, from brainstorming user stories ideas up to reviewing the code before submission. The useful tips and advice he provide assisted me throught the development of this project. 
+Firstly, I would like to thank my mentor for helping me create this project and bring about the final result. He helped me throughout the development journey, from brainstorming user stories ideas up to reviewing the code before submission. The useful tips and advice he provided assisted me throughout the development of this project. 
 
 I would also like to thank the free technologies that I have been able to use for this project, I will once again mention Bootstrap, Github and Slack for all of these tools that have helped made coding this project possible. 
 
@@ -357,5 +392,5 @@ I would like to thank the solution I found on Stack overflow for a bug fix, and 
 
 {My Boardwalk Games Project}(https://github.com/Mark1-15/boardwalk-games/blob/main/assets/css/style.css)
 
-Last, and certainly not least I would like to once again thank Code Institute. I have learned front end software development in a matter of weeks thank to them and would not have been able to create this project without them. Furthermore, the walkthrough projects throughout this module culminating in this project have been particularly useful. As previously mentioned, 2 small code snippets have been used from previous projects thanks to them. I would not be here without the teaching I have received from Code institute, and hope this project shows the skills I have learned, and now have been able to implement.
+Last, and certainly not least I would like to once again thank Code Institute. I have learned front end software development in a matter of weeks thank to them and would not have been able to create this project without them. Furthermore, the walkthrough projects throughout this module culminating in this project have been particularly useful. As previously mentioned, 2 small code snippets have been used from previous projects. I would not be here without the teaching I have received from Code institute, and hope this project shows the skills I have learned, and now have been able to implement.
 

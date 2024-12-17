@@ -65,9 +65,7 @@ footer {
 /* I had learned this media query from my previously coded boardwalk games project with code institute */
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
-    /* W3Schools.com assisted with the css for centering the image */
     
-
     .card-3-shift {
         margin-right: 90px;
     }
