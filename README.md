@@ -88,22 +88,22 @@ However, here is a summary of them below (in no particular order):
 
 Wireframes were used in the preperation of this project to help create the layout of the website that acted as a guide once I had commenced coding. These wireframes were created in the inception phase of this project, as I was planning out ideas. They are seen here:
 
-![alt text](readme-documents/image.png)
-![alt text](readme-documents/image-1.png)
-![alt text](readme-documents/image-2.png)
-![alt text](readme-documents/image-3.png)
+![Wireframe 1 plan](readme-documents/image.png)
+![Wireframe 2 plan](readme-documents/image-1.png)
+![Wireframe 3 plan](readme-documents/image-2.png)
+![Wireframe 4 plan](readme-documents/image-3.png)
 
 
-![alt text](readme-documents/image-4.png)
-![alt text](readme-documents/image-5.png)
-![alt text](readme-documents/image-6.png)
-![alt text](readme-documents/image-7.png)
+![Wireframe 5 plan](readme-documents/image-4.png)
+![Wireframe 6 plan](readme-documents/image-5.png)
+![Wireframe 7 plan](readme-documents/image-6.png)
+![Wireframe 8 plan](readme-documents/image-7.png)
 
 
-![alt text](readme-documents/image-8.png)
-![alt text](readme-documents/image-9.png)
-![alt text](readme-documents/image-10.png)
-![alt text](readme-documents/image-12.png)
+![Wireframe 9 plan](readme-documents/image-8.png)
+![Wireframe 10 plan](readme-documents/image-9.png)
+![Wireframe 11 plan](readme-documents/image-10.png)
+![Wireframe 12 plan](readme-documents/image-12.png)
 
 
 ## 2. Features
@@ -173,25 +173,25 @@ I also used previous examples of adding a media query into the css file of the p
 
 I firstly, to test my HTML code I used the industry recognised W3C Markup validator (link below). When I first did this a number of errors arose as the image names that I am using for this project had spaces in the file titles, spaces are invalid for file titles in HTML. I therefore removed the spaces and added a - in it's place. The validator also pointed out that I had used the the ID "about-us" twice, for 2 different elements. Because of this, i changed this attribute from an ID to a class which solved the issue. I then also added a did in the footer socials section, and moved the closing paragraph element which was at the end ov the social links section, closing it off. But this was changed with a div element and the paragraph closing element was moved to after the 'follow our socials:' text. A warning remained as I had not used a specific heading element but this was no issue as no heading element was used until after the logo and carousel in index.html.
 
-![alt text](readme-documents/image-13.png)
+![HTML No errors in Validator](readme-documents/image-13.png)
 
 [View HTML Validator here](https://validator.w3.org/)
 
 For booking-form.html, some of the aria labels in the input fields were noted incorrectly as well as the same paragraph problem in index.html. I have now corrected this and tested in the validator. A seen below, no errors are found in this html form.
 
-![alt text](readme-documents/image-18.png)
+![HTML No errors in Validator](readme-documents/image-18.png)
 
 For activities.html, no errors were found apart from the same footer paragraph errors as the others. This has now been corrected, and no errors remain as seen below.
 
-![alt text](readme-documents/image-19.png)
+![HTML No errors in Validator](readme-documents/image-19.png)
 
 Just like activities.html, submitted.html had no errors apart from the same footer paragraph errors as the others. This has now been corrected, and no errors remain as seen below.
 
-![alt text](readme-documents/image-20.png)
+![HTML No errors in Validator](readme-documents/image-20.png)
 
 Secondly, I used the W3C CSS validator (link below) to test my custon CSS. As seen in the image below, no error's were found and all the CSS code created and used is valid and working properly.
 
-![alt text](readme-documents/image-14.png)
+![CSS No errors in Validator](readme-documents/image-14.png)
 
 [View CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 
@@ -199,15 +199,15 @@ Secondly, I used the W3C CSS validator (link below) to test my custon CSS. As se
 
 Using Chrome Dev Tools, i was able to use the Lighthouse tool to test the reliability and functionality of the website from a user end point of view. I decided to use incognito mode to run the test as this blocks and web extensions that can falsely hinder results. After first running the test, here are the results I received:
 
-![alt text](readme-documents/image-15.png)
+![Lighthouse results](readme-documents/image-15.png)
 
 Overall good results from the 3 main scores as can be seen, but taking a closer look at the points noted down a few adjustments could have been made to improve the performance. The main point being that images could have been formatted to a webp or AVIF format for more efficient image compression. Yet with that said, image sizes were still small enough (hardly if exceeding 500kb) not to impact the user experience. Furthermore, the carousel from bootstrap also assists as only the first image of the carousel needs to load for the page to load, as the other images can load as the carousel cycles through the images.
 
-![alt text](readme-documents/image-16.png)
+![Lighthouse image improvment proposal](readme-documents/image-16.png)
 
 The accessability rating of this website rests at a high score of 95, but a few minor improvements could still be made. One of which was the contrasting of colour between the links and the background colour of the footer, the dark blue colour sitting on a dark brown can be difficult to see, therefore I have created a new CSS class that changes the colour of these social links from the dark blue to a light blue, heavily contrasting the backgrounsd, making it easier to see and more accessable for users, increasing the score to 100.
 
-![alt text](readme-documents/image-17.png)
+![Lighthouse contrast improvment proposal](readme-documents/image-17.png)
 
 The best practices section scored 96, the only issue raised was that the logo sometimes displays with an inconsistent aspect ration. Though brought up as an issue, this is minor and will not impact user experience, and was designed like this to ensure that the logo image is responsive and changes to different screen sizes, this being a justifyable reason.
 
@@ -217,27 +217,27 @@ This section will lokk back onto the user stories to show how the end result has
 
 Firstly, the website should have been fully responsive while also being easy to navigate. The end product is fully reponsive and looks good reagrdless of what screen size is being used, and the layout of the pages have been designed in a way that they are easy to look at and follow, with the information first displayed to the user, then followed by prompts for either further information if the user wishes, or to book an activity. Therefore the tasks completed meant that the acceptance criteria for this user story has been met.
 
-![alt text](readme-documents/image-21.png)
+![user story 1](readme-documents/image-21.png)
 
 Secondly, the website should have been fully informative. A welcome introduction for the purpose of the website/organisation is found on the home page, with this expanding further as the user navigates through the site on the activities page, where a full description is provided for each activity, along with a photo for each activity, and a button at the bottom of the activities page promting a modal explaining that the cost is free and any refreshments provided has met the governmental food  hygiene and safety standard. Therefore, as the website is fully informative, providing all information would need in the appropriate sections/pages on the site, the acceptance criteria for this user story has been met.
 
-![alt text](readme-documents/image-22.png)
+![user story 2](readme-documents/image-22.png)
 
 Thirdly, the user story requested a fully functional bookinng form, along with a separate page dedicated to showing what activities are available to book onto. This user story has been implemented through both pages activities.html, and booking-form.html. booking-form.html is a separate page with a fully functioning booking form, requiring all field to be filled appropriately before being able to be submitted, ensuring all required information is correct and captured. The activities.html page highlights all available activities through bootstrap cards, highlighting who the activities are for and are easily distinguishable from one another by the descriptions and images. Therefore the acceptance criteria for this user story has been fully met.
 
-![alt text](readme-documents/image-23.png)
+![user story 3](readme-documents/image-23.png)
 
 Next, information regarding the contact details and opening times were required. All contact details are available on the footer on each page, allowing users to get in touch via phone, email, or in person. Links were also provided to social media pages if they required, and the address was noted if they wished to visit the location in person for an activity. Furthermore, all times Hope House is open is noted on the activities page, where each activity has a specified time and day noted on each card. Therefore the acceptance criteria for this user story has been met.
 
-![alt text](readme-documents/image-24.png)
+![User story 4](readme-documents/image-24.png)
 
 The last user story to be implemented into this project was regarding engaging images. Though not a vital 'must-have' feature, it's still important and a 'should-have' feature and should be on the website to convey the atmosphere and contents of the activities. Though the highest image format webp was not used as time had ran out before I realised to convert them from jpg to webp, but the jpg/jpeg images are still of a high enough quality to be seen professionally, to showcase the activities and general themes of Hope House. Furthermore, all show correctly on the page as the correct filepaths are used in the project. Therefore the acceptance criteria for this user story have been fully met. 
 
-![alt text](readme-documents/image-25.png)
+![user story 5](readme-documents/image-25.png)
 
 The remaining 2 user stories were not able to be implemented into the project as time had ran out. However, they were not necessary and only rated as 'could-have'. However, the safety verification user story is arguably partially implemented via the modal button on the activities page mentioning the 5 star food safety award this organisation has. If given enough time however, this would have been fully implemented as well as a donation button for the other user story.
 
-![alt text](readme-documents/image-26.png)
+![2 remaining user stories](readme-documents/image-26.png)
 
 
 ##### Functionality Testing
@@ -266,25 +266,33 @@ This section will document the testing the website will under go to ensure every
 Modal with extra info:
 
 
-![alt text](readme-documents/image-27.png)
+![modal](readme-documents/image-27.png)
 
 Error warnings display on fields filled incorrectly:
 
-![alt text](readme-documents/image-28.png)
+![Error warning name](readme-documents/image-28.png)
 
-![alt text](readme-documents/image-29.png)
+![Error warning email](readme-documents/image-29.png)
 
-![alt text](readme-documents/image-30.png)
+![Error warning phone](readme-documents/image-30.png)
 
-![alt text](readme-documents/image-31.png)
+![Error warning participants](readme-documents/image-31.png)
 
-![alt text](readme-documents/image-32.png)
+![Error warning activity](readme-documents/image-32.png)
 
-![alt text](readme-documents/image-33.png)
+![Error warning date](readme-documents/image-33.png)
 
-Success page reached from submit button after all fields are filled correctly:
+Submit page reached from submit button after all fields are filled correctly:
 
-![alt text](readme-documents/image-34.png)
+![submit page](readme-documents/image-34.png)
+
+This website is fully responsive, and adapts to fit to different screensizes, some of which are seen below:
+
+![responsive test small screen](readme-documents/image-35.png)
+
+![responsive test medium screen](readme-documents/image-36.png)
+
+![responsive test large screen](readme-documents/image-37.png)
 
 ## 5.Deployment
 
