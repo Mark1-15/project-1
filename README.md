@@ -227,9 +227,13 @@ Thirdly, the user story requested a fully functional bookinng form, along with a
 
 ![alt text](readme-documents/image-23.png)
 
-Next, 
+Next, information regarding the contact details and opening times were required. All contact details are available on the footer on each page, allowing users to get in touch via phone, email, or in person. Links were also provided to social media pages if they required, and the address was noted if they wished to visit the location in person for an activity. Furthermore, all times Hope House is open is noted on the activities page, where each activity has a specified time and day noted on each card. Therefore the acceptance criteria for this user story has been met.
 
+![alt text](readme-documents/image-24.png)
 
+The last user story to be implemented into this project was regarding engaging images. Though not a vital 'must-have' feature, it's still important and a 'should-have' feature and should be on the website to convey the atmosphere and contents of the activities. Though the highest image format webp was not used, a the jpg/jpeg images are still of a high enough quality to be seen professionally, to showcase the activities and general themes of Hope House. Furthermore, all show correctly on the page as the correct filepaths are used in the project. Therefore the acceptance criteria for this user story have been fully met. 
+
+![alt text](readme-documents/image-25.png)
 
 
 
